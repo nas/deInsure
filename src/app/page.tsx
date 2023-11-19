@@ -13,6 +13,7 @@ import { initialChain } from "@/chains/chains";
 import { ethers } from "ethers";
 import Image from "next/image";
 import { shortAddressLabel } from "@/utils/shortAddress";
+import { ERC20_ABI } from "@/utils/erc20abi";
 
 export default function Home() {
   // owner address from the email  (provided by web3Auth)
@@ -178,9 +179,10 @@ export default function Home() {
 
   return (
     <>
-      <div className="mt-8">
-        <h1 className="text-3xl font-bold underline text-white">YOUR XXX</h1>
+      <div className="mt-2">
+        <h1 className="text-3xl font-bold underline text-white">OctoInsure - Decentralised P2P Insurance</h1>
       </div>
+
       <div>
         <Image
           className="rounded-lg shadow-lg"
