@@ -179,7 +179,14 @@ export default function Home() {
 
   return (
     <>
-      <div className="mt-2">
+      <div className="mt-2 flex">
+        <Image
+          className="rounded-lg shadow-lg mr-2"
+          src="/images/logo.png"
+          alt="decentralised insurance"
+          width="50"
+          height="50"
+        />
         <h1 className="text-3xl font-bold underline text-white">OctoInsure - Decentralised P2P Insurance</h1>
       </div>
 
