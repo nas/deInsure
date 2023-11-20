@@ -1,7 +1,7 @@
 # Octosure - Decentralised P2P insurance
 
 
-### This is not production ready and developed as a PoC for EthGlobal Istanbul 2023
+### This is incomplete and developed as a PoC for EthGlobal Istanbul 2023
 
 SC repo -> https://github.com/nas/OctoInsure
 
