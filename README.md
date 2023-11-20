@@ -1,5 +1,10 @@
 # Octosure - Decentralised P2P insurance
 
+
+### This is not production ready and developed as a PoC for EthGlobal Istanbul 2023
+
+SC repo -> https://github.com/nas/OctoInsure
+
 This is the front for the decentralise insurance. It is built using NextJs, Safe AuthSDK and other javascript libraries.
 
 ## Getting Started
